@@ -3,7 +3,7 @@ language: python
 
 # Specifying Python versions
 python:
-  - "2.7"
+  - "3.7"
 
 # Services to set up and start
 services:
